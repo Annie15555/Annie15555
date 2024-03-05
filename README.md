@@ -29,3 +29,7 @@ The successful execution of this project will empower the police department to m
 
  Data Source: [Criminal record]https://docs.google.com/spreadsheets/d/1PmfXCD1m5srDAy5Xqd5zSIqNyQc6oL-fu5Whtz_Uwdc/edit?usp=classroom_web&authuser=
 [DATA SOURCE]:(https://docs.google.com/spreadsheets/d/1PmfXCD1m5srDAy5Xqd5zSIqNyQc6oL-fu5Whtz_Uwdc/edit?usp=classroom_web&authuser=)
+
+Data before cleaning![Screenshot 2024-03-05 162721](https://github.com/Annie15555/Annie15555/assets/157610325/9663e848-6be2-458d-ae8d-c70733672b6c)
+
+
