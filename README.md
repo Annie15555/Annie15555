@@ -1,6 +1,10 @@
 #INTRODUCTION
+
+
 Project documentation for the police recorded crime data tables from March 2013 to June 2023 aims to provide comprehensive insights into the trends, patterns, and analysis of crime data across various police force areas. The documentation will include details such as methodology, data sources, data cleaning processes, data modelling, visualizations, and recommendations. It will serve as a valuable resource for stakeholders, policymakers, researchers, and the general public to understand and address issues related to crime prevention and law enforcement strategies.
 #PROBLEM STATEMENT
+
+
 Introduction
 In today's world, crime rates have surged, posing complex challenges for law enforcement globally. To tackle these issues head-on, the integration of advanced technologies and data analysis is crucial. This case study delves into how crime data analysis can elevate the effectiveness of law enforcement in a major city.
 
