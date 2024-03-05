@@ -37,4 +37,19 @@ The successful execution of this project will empower the police department to m
 #Data after cleaning![Screenshot 2024-03-05 172411](https://github.com/Annie15555/Annie15555/assets/157610325/115fd740-d2af-4534-b87d-90e187c410c2)
 
 
+DATA MODELLING AND RELATIONSHIP
+
+Dimension: new tables for identified dimensions where created
+
+-Offence table
+
+-Date table 
+
+-Location table
+
+The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
+
+![Screenshot 2024-03-05 173830](https://github.com/Annie15555/Annie15555/assets/157610325/94566964-97c8-4e64-9d28-c8b5915db592)
+
+
 
