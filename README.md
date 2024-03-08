@@ -1,9 +1,9 @@
-#INTRODUCTION
+# INTRODUCTION
 
 
 Project documentation for the police recorded crime data tables from March 2013 to June 2023 aims to provide comprehensive insights into the trends, patterns, and analysis of crime data across various police force areas. The documentation will include details such as methodology, data sources, data cleaning processes, data modelling, visualizations, and recommendations. It will serve as a valuable resource for stakeholders, policymakers, researchers, and the general public to understand and address issues related to crime prevention and law enforcement strategies.
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 
 Introduction
@@ -29,15 +29,15 @@ The successful execution of this project will empower the police department to m
 
  Data Source: [Criminal record]https://docs.google.com/spreadsheets/d/1PmfXCD1m5srDAy5Xqd5zSIqNyQc6oL-fu5Whtz_Uwdc/edit?usp=classroom_web&authuser=
 
- #PREPROCESS DATA 
+ # PREPROCESS DATA 
 
  The data was cleaned by creating the year column from the financial year column, creating a quarter- year column by combining the financial quarter column and newly created year column. and i also created a financial mon th column
 
-#Data before cleaning![Screenshot 2024-03-05 162721](https://github.com/Annie15555/Annie15555/assets/157610325/9663e848-6be2-458d-ae8d-c70733672b6c)
-#Data after cleaning![Screenshot 2024-03-05 172411](https://github.com/Annie15555/Annie15555/assets/157610325/115fd740-d2af-4534-b87d-90e187c410c2)
+# Data before cleaning![Screenshot 2024-03-05 162721](https://github.com/Annie15555/Annie15555/assets/157610325/9663e848-6be2-458d-ae8d-c70733672b6c)
+# Data after cleaning![Screenshot 2024-03-05 172411](https://github.com/Annie15555/Annie15555/assets/157610325/115fd740-d2af-4534-b87d-90e187c410c2)
 
 
-DATA MODELLING AND RELATIONSHIP
+# DATA MODELLING AND RELATIONSHIP
 
 Dimension: new tables for identified dimensions where created
 
